@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 22.5, 19.75" name="UrolojiDB">
+  <DataContextMoniker Name="/UrolojiDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="40bc5e52-43ca-467e-8e33-9e2e03766ce3" absoluteBounds="3.5, 4.625, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/UrolojiDBDataContext/bTakip" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e38948fe-158e-4e8c-af1b-b34e1e4913c0" absoluteBounds="3.515, 5.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3c79e7b1-58c8-416d-9ac8-f15823af81f9" absoluteBounds="6.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/UrolojiDBDataContext/bOpTuru" />
+      <nestedChildShapes>
+        <elementListCompartment Id="00563898-4853-411a-8fe4-fc19ea63ac64" absoluteBounds="6.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="559efd36-39ea-4daf-9596-55efb9c3abca" absoluteBounds="3.5, 1.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/UrolojiDBDataContext/bPatoloji" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4e6c1368-8294-47ea-a54a-445c84170cef" absoluteBounds="3.515, 2.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ac7a72bc-743f-4fe9-a873-726f216dd6d9" absoluteBounds="3.5, 15.625, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/UrolojiDBDataContext/bPostOperatif" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1094ead9-c5cb-4106-8e50-a4db88b97048" absoluteBounds="3.515, 16.085, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="99372dc9-3d8b-49b8-940c-bc4e25e44061" absoluteBounds="3.5, 7.75, 2, 3.1170068359374996">
+      <DataClassMoniker Name="/UrolojiDBDataContext/bOperatif" />
+      <nestedChildShapes>
+        <elementListCompartment Id="27a931e2-cf5d-4bea-bb28-1e095fd22328" absoluteBounds="3.515, 8.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="24d8f7e1-dc0b-42f1-9b4a-1fbf5d0b26b0" absoluteBounds="0.75, 9.5, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/UrolojiDBDataContext/bHastaBilgileri" />
+      <nestedChildShapes>
+        <elementListCompartment Id="56e586d0-cf27-4549-ac7a-9de63e55c836" absoluteBounds="0.765, 9.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="797f856c-e004-4b1e-acd3-909797ecf579" absoluteBounds="6.75, 2.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/UrolojiDBDataContext/bDoktor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b23cc42f-57b6-498f-845a-d9215e6e6c3a" absoluteBounds="6.765, 3.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="89197f2c-b404-4d70-a594-798602e4c4d0" absoluteBounds="3.5, 11.625, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/UrolojiDBDataContext/bDemografik" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a6e8471a-3eb8-4e1f-b9bc-cda88f56c3e7" absoluteBounds="3.515, 12.085, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3f41fab0-1c74-4934-a252-3d1bf51c08b8" absoluteBounds="6.75, 4.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/UrolojiDBDataContext/bAltGrup" />
+      <nestedChildShapes>
+        <elementListCompartment Id="98eb030f-7885-4c57-87ca-1be0715c7794" absoluteBounds="6.765, 5.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.75 : 9.5); (1.75 : 5.79890055338542); (2.19791916666667 : 5.79890055338542 : JumpStart); (2.36458583333333 : 5.79890055338542 : JumpEnd); (3.5 : 5.79890055338542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/UrolojiDBDataContext/bHastaBilgileri/bHastaBilgileri_bTakip" />
+      <nodes>
+        <classShapeMoniker Id="24d8f7e1-dc0b-42f1-9b4a-1fbf5d0b26b0" />
+        <classShapeMoniker Id="40bc5e52-43ca-467e-8e33-9e2e03766ce3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.2812525 : 9.5); (2.2812525 : 2.82774983723958); (3.5 : 2.82774983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/UrolojiDBDataContext/bHastaBilgileri/bHastaBilgileri_bPatoloji" />
+      <nodes>
+        <classShapeMoniker Id="24d8f7e1-dc0b-42f1-9b4a-1fbf5d0b26b0" />
+        <classShapeMoniker Id="559efd36-39ea-4daf-9596-55efb9c3abca" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 11.8478011067708); (1.75 : 17.5681062825521); (3.5 : 17.5681062825521)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/UrolojiDBDataContext/bHastaBilgileri/bHastaBilgileri_bPostOperatif" />
+      <nodes>
+        <classShapeMoniker Id="24d8f7e1-dc0b-42f1-9b4a-1fbf5d0b26b0" />
+        <classShapeMoniker Id="ac7a72bc-743f-4fe9-a873-726f216dd6d9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.1835034179687); (3.5 : 10.1835034179687)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/UrolojiDBDataContext/bHastaBilgileri/bHastaBilgileri_bOperatif" />
+      <nodes>
+        <classShapeMoniker Id="24d8f7e1-dc0b-42f1-9b4a-1fbf5d0b26b0" />
+        <classShapeMoniker Id="99372dc9-3d8b-49b8-940c-bc4e25e44061" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.2812525 : 11.8478011067708); (2.2812525 : 13.4223071875); (3.5 : 13.4223071875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/UrolojiDBDataContext/bHastaBilgileri/bHastaBilgileri_bDemografik" />
+      <nodes>
+        <classShapeMoniker Id="24d8f7e1-dc0b-42f1-9b4a-1fbf5d0b26b0" />
+        <classShapeMoniker Id="89197f2c-b404-4d70-a594-798602e4c4d0" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="173be2d9-074d-4a89-8c2c-500db654cbd0" absoluteBounds="16.625, 7.25, 2, 3.5016097005208318">
+      <DataClassMoniker Name="/UrolojiDBDataContext/HastaTakip" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1ba1a956-2873-4b13-bd3d-52e6916d0038" absoluteBounds="16.64, 7.71, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a3384cbc-caca-4dc8-bd88-80e7da24489f" absoluteBounds="20.25, 1.125, 2, 11.1936669921875">
+      <DataClassMoniker Name="/UrolojiDBDataContext/UrolojiFull" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f4c32015-5b07-43b3-b383-37195f982585" absoluteBounds="20.265, 1.585, 1.9700000000000002, 10.6336669921875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
